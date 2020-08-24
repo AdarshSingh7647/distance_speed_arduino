@@ -1,4 +1,4 @@
-# distance_speed_arduino
+# distance_speed_arduino TinkerCAD
 calculation of distance and speed with wheel encoder using arduino which is made in tinkerCAD
 ## Problem statement: 
 Calculate the speed and distance covered by a wheel using wheel encoder sensor and LCD display.
